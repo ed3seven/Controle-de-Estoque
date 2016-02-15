@@ -1,0 +1,53 @@
+
+/*
+Theme Name: Teste 1
+Theme URI: http://www.calmaria.blog.br/
+Author: Vinicius Santos
+Author URI: http://thaeds.com/calmaria/
+*/
+
+
+body {
+	padding-top: 54px;
+	padding-bottom: 30px;
+	font-size: 15px;
+}
+
+td.actions {
+    padding: 7px 0px 0px 7px;
+    min-width: 240px;
+}
+.nav-bar {
+    background-color: #00B8FF;
+}
+.lead {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.jumbotron {
+    background-color: #00B8FF;
+    border-radius: 0;
+    background-image: url('../img/back.png');
+    background-repeat: no-repeat;
+    background-position: right 15% center;
+    padding: 86px;
+}
+.page-header {
+    margin-bottom: 20px;
+}
+li.nav-item {
+    padding: 0 10px;
+    border-radius: 1px;
+}
+li.nav-item.active {
+    background-color: #00B8FF;
+}
+.container.add-section {
+    background-color: #000;
+}
+
+.add-section {
+    background-color: #f0f1f3;
+    padding: 30px 0;
+    margin: 20px 0;
+}
